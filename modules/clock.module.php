@@ -15,6 +15,6 @@ $time = date($format);
 /* DISPLAY */
 ?>
 
-<div class='jumbo' >
+<div class='jumbo vertical-center'>
     <span class='icon'></span><?php echo $time; ?>
 </div>
