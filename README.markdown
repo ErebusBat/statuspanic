@@ -22,13 +22,11 @@ Have a suggestion? Excellent - let me know.
 
 Have a photo of a status board you made with statuspanic? Excellent - I want to see it!
 
-Example
-====================
-I've got a working version on my website. It's basically just a direct installation - no editing has been done from the default configuration. It basically lets you see what it does without trying (since that's a stated goal of this project..)
-[Example Installation](http://allynbauer.com/software/statuspanic)
-
 To Do
 ====================
 - More complete readme
 - Redo format of HTML/CSS
 - Fix the vertical centering glitch
+- Write a ToDo list
+- create a non-flash flip clock
+- Google calendar intergration.
