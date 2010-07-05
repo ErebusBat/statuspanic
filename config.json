@@ -18,6 +18,16 @@
       "update": 300
     },
     {
+      "name": "newclock",
+      "width": 980,
+      "update": 3600,
+      "args": {
+        "event": "UNTIL SOMETHING",
+        "stop": 1274706000,
+        "timezone": "America/Chicago"
+		}
+	},
+    {
       "name": "arrow",
       "class": "mini middle",
       "width": 300,
@@ -28,7 +38,7 @@
       }
     },
     {
-     "name": "clock",
+     "name": "",
       "class": "mini middle",
       "width": 200,
       "height": 120,

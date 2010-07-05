@@ -1,0 +1,1 @@
+<embed src="resources/newclock.swf" width="980" height="150" hspace="5" vspace="5" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
